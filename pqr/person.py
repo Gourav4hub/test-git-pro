@@ -7,4 +7,6 @@ class Person:
         selfasdfsfge = int(input("Age : "))
     def show(self):
         print("\nName : " , self._name)
-        print("Age : " , self._age)        
+        print("Age : " , self._age)    
+    def show(self):
+        print("\nName : " , self._name)    
